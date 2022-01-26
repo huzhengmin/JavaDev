@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-web" />
+        <module name="springMvc-web" />
         <module name="javese-maven" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="javese-maven" target="8" />
+      <module name="spring-web" target="1.7" />
+      <module name="springMvc-web" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

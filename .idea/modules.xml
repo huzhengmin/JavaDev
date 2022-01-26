@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/javese-maven.iml" filepath="$PROJECT_DIR$/javese-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-web/spring-web.iml" filepath="$PROJECT_DIR$/../spring-web/spring-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springMvc-web/springMvc-web.iml" filepath="$PROJECT_DIR$/../springMvc-web/springMvc-web.iml" />
     </modules>
   </component>
 </project>
